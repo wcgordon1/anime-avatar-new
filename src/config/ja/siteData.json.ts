@@ -2,7 +2,7 @@ import { type SiteDataProps } from "../types/configDataTypes";
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "Anime Avatars",
+	name: "アニメアバターズ",
 	// Your website's title and description (meta fields)
 	title: "Atlas - a small business theme and landing page crafted with Astro and Tailwind CSS",
 	description:
